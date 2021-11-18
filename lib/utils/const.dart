@@ -1,0 +1,6 @@
+const MY_CART_KEY='CART_STORAGE';
+const KEY_TOKEN='TOKEN';
+const KEY_ANONYMOUS='ANOUNYMOUS';
+const COD_VAL='COD';
+const PAYPAL_VAL='PAYPAL';
+const BRAINTREE_VAL='Braintree';
